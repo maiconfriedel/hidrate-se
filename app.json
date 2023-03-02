@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "hidrate-se",
+    "slug": "hidrate-se",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
